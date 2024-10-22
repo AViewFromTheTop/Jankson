@@ -22,7 +22,7 @@
   "license": "MIT",
   "environment": "*",
   "depends": {
-    "java": ">=21"
+    "java": ">=17"
   },
   "custom": {
     "modmenu": {
